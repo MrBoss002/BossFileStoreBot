@@ -1,4 +1,4 @@
-# PyroFilesStoreBot
+# BossFileStoreBot
 This is Telegram Parmanent Files Store Bot by [@MrBoss002](https://github.com/MrBoss002).
 
 * **Language:** [Python3](https://www.python.org)

@@ -314,7 +314,7 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Source Codes of Bot",
+                        InlineKeyboardButton("Source Codes",
                                              url="https://github.com/MrBoss002/BossFileStoreBot")
                     ],
                     [
@@ -332,7 +332,7 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Source Codes of Bot",
+                        InlineKeyboardButton("Source Codes",
                                              url="https://github.com/MrBoss002/BossFileStoreBot")
                     ],
                     [

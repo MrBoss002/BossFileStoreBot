@@ -1,6 +1,6 @@
 # BossFileStoreBot
 
-http://graph.org/file/dc965ccd94c1e78d3c201.jpg
+<a><img src='http://graph.org/file/dc965ccd94c1e78d3c201.jpg'/></a>
 
 This is Telegram Parmanent Files Store Bot by [@MrBoss002](https://github.com/MrBoss002).
 
